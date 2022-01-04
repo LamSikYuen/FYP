@@ -1,8 +1,8 @@
 export const fonts = {
-    body: "Roboto_400Regular",
-    heading: "Oswald_400Regular",
-    monospace: "Roboto_400Regular",
-  };
+  body: "sans-serif",
+  heading: "Roboto",
+  monospace: "sans-serif",
+};
   
   export const fontWeights = {
     regular: 400,
